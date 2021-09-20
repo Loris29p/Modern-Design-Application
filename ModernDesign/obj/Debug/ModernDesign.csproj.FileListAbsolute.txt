@@ -1,0 +1,9 @@
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\ModernDesign.csproj.AssemblyReference.cache
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\Theme\MenuButtonTheme.baml
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\MainWindow.g.cs
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\App.g.cs
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\ModernDesign_MarkupCompile.cache
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\ModernDesign_MarkupCompile.lref
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\Theme\TextboxTheme.baml
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\MVVN\View\HomeView.g.cs
+C:\Users\pcace\OneDrive\Bureau\Modern-Design-Application\ModernDesign\obj\Debug\GeneratedInternalTypeHelper.g.cs
